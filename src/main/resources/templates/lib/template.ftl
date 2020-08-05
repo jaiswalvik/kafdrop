@@ -18,7 +18,7 @@
     <!DOCTYPE html>
 <html>
 <head>
-    <title>Kafdrop: ${title}</title>
+    <title>Kafka: ${title}</title>
     <link type="text/css" rel="stylesheet" href="<@spring.url '/css/bootstrap.min.css'/>"/>
     <link type="text/css" rel="stylesheet" href="<@spring.url '/css/font-awesome.min.css'/>"/>
     <link type="text/css" rel="stylesheet" href="<@spring.url '/css/global.css'/>"/>
